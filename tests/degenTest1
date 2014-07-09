@@ -1,0 +1,8 @@
+//degeneracy test
+// first row for c
+1 1 1    
+// second row for b    
+8 0 
+//the rest is the matrix A
+1 1 0
+0 -1 1

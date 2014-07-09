@@ -1,0 +1,9 @@
+//result is x1 = 12 and x2 = 28
+// first row for c
+13.0 23.0     
+// second row for b    
+480.0 160.0 1190.0  
+//the rest is the matrix A
+5.0 15.0         
+4.0 4.0
+35.0 20.0

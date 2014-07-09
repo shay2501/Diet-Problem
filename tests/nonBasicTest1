@@ -1,0 +1,9 @@
+//book page 854 
+// first row for c
+2 -3 3
+// second row for b
+7 -7 4
+// rest is matrix A
+1 1 -1
+-1 -1 1
+1 -2 2
